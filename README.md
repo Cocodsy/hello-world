@@ -1,2 +1,4 @@
 # hello-world
-just try
+Hi humens!
+
+Cocodsy here, i like java and android!
